@@ -1,2 +1,2 @@
 # IMG-to-TXT
-Textrecognition with PyTesseract
+Textrecognition (OCR) with PyTesseract
